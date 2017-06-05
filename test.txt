@@ -1,0 +1,6 @@
+------------------------------------------------------------------
+Project 7:
+
+In this project you will implement an encrypted file transfer program. It will operate as either a server or client depending on its command line arguments. We will use serialized Java objects to communicate back and forth between the server and client. We will use the Java Cryptography Extension to perform the encryption. If you want, instead of using serialized objects you can create either a text-based or binary protocol for performing the communication. Design appropriate packet structure to send the same data that would be sent by the Java objects. However, if you do this you must include with your submission a short document that describes your protocol design and implementation. This should include packet structure diagram if you create a binary protocol. The rest of this document assumes you are using the provided Java objects.
+ 
+------------------------------------------------------------------
